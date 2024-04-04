@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffe4e1;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative; /* Penambahan */
+}
+
+.love-image {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #ff1493;
+}
+
+.message {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.message p {
+    margin: 10px 0;
+}
